@@ -1,5 +1,5 @@
 def unsafe?(speed)
-!(40..60).include?
+!(40..60).include?(speed)
 end
 
 
